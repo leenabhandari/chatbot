@@ -4,7 +4,7 @@ from spacy.matcher import Matcher
 
 connection = pymysql.connect(host='206.189.134.31',
                              user='intern',
-                             password='Change@Pass',
+                             password='****',
                              db='chatbot'
                             )
 
